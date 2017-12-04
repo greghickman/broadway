@@ -20,6 +20,7 @@
     background: white;
     font-family: Helvetica;
     font-size: 14px;
+    
 }
 
 .h2 {
@@ -36,23 +37,24 @@
 
 .normal {
     font-family: Helvetica;
-    font size: 14px;
+    font-size: 14px;
 }
 .maindividers {
     Font-family: Helvetica;
     font-size: 23px;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 .lowerplate {
     font-family: Helvetica;
     font-size: 11px;
     color: white;
     background-color: dimgray;
+    
 
 }
 .back {
-    background-image: url("the-flatiron-building.png");
+    background-image: url('the-flatiron-building.png');
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -62,4 +64,12 @@
     
 
 
+}
+
+.bottomdivider {
+    Font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
 }
