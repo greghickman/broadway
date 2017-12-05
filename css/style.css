@@ -50,8 +50,14 @@
     font-size: 11px;
     color: white;
     background-color: dimgray;
+    text-align: left;
+    
     
 
+}
+
+a {
+    color: white;
 }
 .back {
     background-image: url('the-flatiron-building.png');
